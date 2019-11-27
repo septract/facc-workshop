@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Formal Approaches to Certifying Compliance 
+title: Formal Approaches to Certifying Compliance (FACC)
 ---
 
 A workshop on applying formal methods tools and techniques to certification and compliance programs. 
@@ -10,7 +10,7 @@ A workshop on applying formal methods tools and techniques to certification and 
 * [Mike Dodds](https://galois.com/team/mike-dodds/) (Galois, Inc)
 * [Byron Cook](http://www0.cs.ucl.ac.uk/staff/b.cook/) (Amazon Web Services, University College London)
 
-Please direct inquiries to [Mike Dodds](email:miked@galois.com). 
+Please direct inquiries to [Mike Dodds](mailto:miked@galois.com). 
 
 ### Workshop purpose 
 
