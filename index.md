@@ -3,7 +3,7 @@ layout: page
 title: Formal Approaches to Certifying Compliance (FACC)
 ---
 
-A workshop on applying formal methods tools and techniques to certification and compliance problems. 
+A proposed workshop on applying formal methods tools and techniques to certification and compliance problems. 
 
 ### Organizers
 
