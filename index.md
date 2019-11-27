@@ -7,8 +7,10 @@ A workshop on applying formal methods tools and techniques to certification and 
 
 ### Organizers
 
-* Mike Dodds (Galois, Inc)
-* Byron Cook (Amazon Web Services, University College London)
+* [Mike Dodds](https://galois.com/team/mike-dodds/) (Galois, Inc)
+* [Byron Cook](http://www0.cs.ucl.ac.uk/staff/b.cook/) (Amazon Web Services, University College London)
+
+Please direct inquiries to [Mike Dodds](email:miked@galois.com). 
 
 ### Workshop purpose 
 
@@ -20,11 +22,17 @@ This workshop will explore two hypotheses: formal methods can automate complianc
 
 Topics of interest: 
 
+* Case studies for certification and compliance 
 * Generating auditable proofs
 * Detecting and analyzing changes
 * Automatically invalidating and regenerating evidence
 * Monitoring system boundaries
 * Generating reports suitable for human and machine certifiers
-* Case studies for certification and compliance 
 
-### Call for Papers 
+### Location 
+
+We intend FACC to take place at [CAV 2020](http://i-cav.org/2020/). 
+
+### Call for Papers
+
+Forthcoming in January 2020. 
